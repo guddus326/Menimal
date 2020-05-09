@@ -1,0 +1,106 @@
+* {padding: 0px; margin: 0px;}
+		body {
+			font-family: "Noto Sans KR", sans-serif;
+			animation: fadein 2000ms ease-out;
+    		-webkit-animation: fadein 2000ms ease-out; /* Safari and  Chrome */
+		}
+		@keyframes fadein {
+			from {opacity:0;}
+			to {opacity:1;}
+		}
+	
+		@-webkit-keyframes fadein { /* Safari and Chrome */
+			from {opacity:0;}
+			to {opacity:1;}
+		}
+		.container {
+			width: 100%;
+			height: 100%;
+			position: relative;
+			overflow: hidden;
+			margin: 0 auto;
+		}
+		.container .background {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background: linear-gradient(to right, #ff8067, #ff7498);
+			opacity: 68%;
+			transform:translate(0%,-100%);
+		}
+		.container2 {
+			position: absolute;
+			transform: translate(0%, -100%); 
+   			width: 100%;
+			height: 100%;
+			margin: 0 auto;
+   		}
+   		p {
+        	font-family: 'Noto Sans KR', sans-serif;
+      	}
+		p.menimal {
+			font-size: 40px;
+			font-weight: 300;
+			text-shadow:3px 3px 13px rgba(255,105,105,35%);
+			margin-top: 3%;
+			font-weight: 300;
+			position: center;
+			text-align: center;
+			letter-spacing: 3px;
+		}
+		p.성분테{
+			font-size: 90px;
+			font-weight: 700;
+			text-shadow:3px 3px 13px rgba(255,105,105,35%);
+			text-align: center;
+			letter-spacing: 3px;
+			margin-bottom: 50px;
+		}
+		.container2 img {
+			margin: 0 auto;
+			margin-bottom: 1.5%;
+		}
+		.start {
+			margin-left: auto;
+			margin-right: auto;
+			width: 11%;
+			height: 5%;
+		}
+		p.start_text {
+			font-size: 40px;
+			height: auto;
+			font-weight: 500;
+			float: left;
+			margin-left: 25px;
+			text-align: center;
+		}
+		.start img {
+			width: auto;
+			height: auto;
+			float: left;
+			margin-top: 15px;
+			margin-left: 16px;
+		}
+		
+		.fade {
+		  -webkit-animation-name: fade;
+		  -webkit-animation-duration: 1.5s;
+		  animation-name: fade;
+		  animation-duration: 1.5s;
+		}
+		.container .fade img {
+			max-width:100%;
+			height:auto;
+		}
+		@-webkit-keyframes fade {
+		  from {opacity: .4} 
+		  to {opacity: 1}
+		}
+
+		@keyframes fade {
+		  from {opacity: .4} 
+		  to {opacity: 1}
+		}
+		a:link {color: white; text-decoration: none; text-shadow:3px 3px 13px rgba(255,82,82,67%);}
+ 		a:visited {color: white; text-decoration: none; text-shadow:3px 3px 13px rgba(255,82,82,67%);}
+ 		a:hover {color: white; font-weight: bold; text-shadow:1px 1px 10px white;}

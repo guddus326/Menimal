@@ -1,0 +1,64 @@
+* {padding: 0px; margin: 0px;}
+		body {
+			font-family: "Noto Sans KR", sans-serif;
+			animation: fadein 2000ms ease-out;
+    		-webkit-animation: fadein 2000ms ease-out; /* Safari and  Chrome */
+		}
+		@keyframes fadein {
+			from {opacity:0;}
+			to {opacity:1;}
+		}
+	
+		@-webkit-keyframes fadein { /* Safari and Chrome */
+			from {opacity:0;}
+			to {opacity:1;}
+		}
+		.container {
+			width: 100%;
+			height: 100%;
+			position: relative;
+			overflow: hidden;
+			margin: 0 auto;
+		}
+		.container .background {
+			position: absolute;
+			width: 32%;
+			height: 75%;
+			background: #ffe6e6;
+			opacity: 68%;
+			top:0; bottom:0;
+			margin-top:auto;
+			margin-bottom:auto;
+			margin-left: 59%;
+		}
+		.container2 {
+			position: absolute;
+			width: 32%;
+			height: 75%;
+			top:0; bottom:0;
+			margin-top:auto;
+			margin-bottom:auto;
+			margin-left: 59%;
+		}
+		.container2 .story {
+			position: center;
+			text-align: left;
+			margin-left: 10%;
+			margin-right: 10%;
+			margin-top: 20%;
+			line-height:2em;
+		}
+		.button-l{
+			text-shadow: 2px 2px 8px #ff6969;
+			position: absolute;
+			left: 0.40%;
+			top: 50%;
+			margin-top: -50px;
+		}
+		.button-r{
+			text-shadow: 2px 2px 8px #ff6969;
+			position: absolute;
+			right: 0.40%;
+			top: 50%;
+			margin-top: -50px;
+		}
