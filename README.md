@@ -11,7 +11,7 @@
 
 ## Screen
 
-    All images used in "Menimal" are commercially available.
+> All images used in "Menimal" are commercially available.
 
 [메인화면]
 ![메인화면](./img/main.png)
