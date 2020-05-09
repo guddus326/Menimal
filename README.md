@@ -1,6 +1,6 @@
 # Menimal - 2020 Mirim IT show
 자신의 성격을 동물로 알아보는 동물 성격 분석 테스트   
-※ 기기에 따라 **Ctrl + 마우스 휠** 을 사용해 크기 조절 후 이용해주세요!
+※ **11F** 키로 전체화면 전환 후 기기에 따라 **Ctrl + 마우스 휠** 을 사용해 크기 조절 후 이용해주세요!
 
 ## Outline
 
@@ -31,6 +31,10 @@ _로스트밸리에 사는 동물들 중 나와 닮은 동물은 무엇일까요
 ---------------------------------------
 [결과화면]
 ![결과화면](./img/result.png)
+
+## Additional
+1. js 선택지 구현
+2. 질문화면에서 답변 선택을 안했다면 넘어가지 못하게 막음
 
 ## Members
 * **Soo-bin Lee (이수빈)** : PM, Plan, Full Stack Development - [Soo-bin](https://github.com/ccomangi2)
