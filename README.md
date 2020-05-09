@@ -20,5 +20,16 @@
 > **스토리화면**
 ![스토리화면](./img/story.png)
 
+> **질문화면**
+![질문화면](./img/question.png)
+
 > **결과화면**
 ![결과화면](./img/result.png)
+
+## Members
+* **Soo-bin Lee (이수빈)** : PM, Plan, Development - [Soo-bin](https://github.com/ccomangi2)
+* **A-ra Kim (김아라)** : Plan, Development - [A-ra](https://github.com/IknowAra)
+* **Su-yun Maeng (맹수연)** : Development - [Su-yun](https://github.com/msuyeon)
+* **Hyung-yeon Ham (함형연)** : Development - [Hyung-yeon](https://github.com/guddus326)
+* **Yu-bin Kwon (권유빈)** : Design - [Yu-bin Kwon]()
+* **Yeon-seo Oh (오연서)** : Design - [Yeon-seo Oh]()
