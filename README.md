@@ -31,9 +31,9 @@
 ![결과화면](./img/result.png)
 
 ## Members
-* **Soo-bin Lee (이수빈)** : PM, Plan, Development - [Soo-bin](https://github.com/ccomangi2)
-* **A-ra Kim (김아라)** : Plan, Development - [A-ra](https://github.com/IknowAra)
-* **Su-yun Maeng (맹수연)** : Development - [Su-yun](https://github.com/msuyeon)
-* **Hyung-yeon Ham (함형연)** : Development - [Hyung-yeon](https://github.com/guddus326)
+* **Soo-bin Lee (이수빈)** : PM, Plan, Full Stack Development - [Soo-bin](https://github.com/ccomangi2)
+* **A-ra Kim (김아라)** : Full Stack Development - [A-ra](https://github.com/IknowAra)
+* **Su-yun Maeng (맹수연)** : Plan, Full Stack Development - [Su-yun](https://github.com/msuyeon)
+* **Hyung-yeon Ham (함형연)** : Full Stack Development - [Hyung-yeon](https://github.com/guddus326)
 * **Yu-bin Kwon (권유빈)** : Design - [Yu-bin Kwon]()
 * **Yeon-seo Oh (오연서)** : Design - [Yeon-seo Oh]()
