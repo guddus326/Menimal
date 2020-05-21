@@ -139,11 +139,25 @@
 			margin-top: 16%;
 			filter: drop-shadow(0px 3px 5px rgba(255,88,103,0.35));
 		}
+		.twitter{
+			position:absolute;
+			display: block;
+			margin-left: 10%;
+			margin-top: 16%;
+			filter: drop-shadow(0px 3px 5px rgba(255,88,103,0.35));
+		}
+		.kakao{
+			position:absolute;
+			display: block;
+			margin-left: 14%;
+			margin-top: 16%;
+			filter: drop-shadow(0px 3px 5px rgba(255,88,103,0.35));
+		}
 
 		.github{
 			position:absolute;
 			display: block;
-			margin-left: 10%;
+			margin-left: 18%;
 			margin-top: 15.9%;
 			filter: drop-shadow(0px 3px 5px rgba(255,88,103,0.35));
 		}
