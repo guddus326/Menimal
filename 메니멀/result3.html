@@ -3,6 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Menimal-메니멀</title>
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script src="sweetalert2.all.min.js"></script>
+	<!-- Optional: include a polyfill for ES6 Promises for IE11 -->
+	<script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 	<link rel="shortcut icon" href="img/icon.png">
 	<link rel="stylesheet" href="css/result.css">
@@ -11,7 +16,9 @@
 	<div class="animal">
 		부엉이
 	</div>
-	<div class="back"><a href="main.html"><img src="img/return.png" width= 40px height=40px></a></div>
+	<div class="back"><a href="main.html"><img src="img/return.png" width="40px" height="40px"></a></div>
+	<div class="gift"><img src="img/gift.png" width="43px" height="43px" onclick="message()" style="cursor:pointer;"></div>
+	<div class="people"><img src="img/people.png" width="43px" height="43px"></div>
 	<div class = "script">
         당신은 조용하고 과묵하며 논리와 분석으로 문제를 해결하기 좋아하는 사람이군요<br>
 		과묵하지만 관심이 있는 분야에 대해서는 말을 잘하며 이해가 빠르고<br>
@@ -50,5 +57,6 @@
 </div>
 <script type="text/javascript" async src="js/sns_share.js"></script>
 <script type="text/javascript" src="js/fade.js"></script>
+<script type="text/javascript" src="js/sweetalert.js"></script>
 </body>
 </html>
