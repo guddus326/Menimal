@@ -3,7 +3,7 @@
 			from {opacity:0;}
 			to {opacity:1;}
 		}
-		@-webkit-keyframes fadein { /* Safari and Chrome */
+		@-webkit-keyfrypames fadein { /* Safari and Chrome */
 			from {opacity:0;}
 			to {opacity:1;}
 		}
@@ -119,7 +119,6 @@
 			z-index: 1;
 			filter: drop-shadow(0px 3px 5px rgba(255,88,103,0.35));
 		}
-
 		.text2{
 			font-family: "Noto Sans KR", sans-serif;
 			font-weight: 500;
@@ -166,5 +165,17 @@
 			position:absolute;
 			display: block;
 			margin-left: 96%;
+			margin-top: 1%;
+		}
+		.gift{
+			position:absolute;
+			display: block;
+			margin-left: 92%;
+			margin-top: 1%;
+		}
+		.people{
+			position:absolute;
+			display: block;
+			margin-left: 88%;
 			margin-top: 1%;
 		}
