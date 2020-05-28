@@ -26,7 +26,7 @@
 			width: 100%;
 			height: 100%;
 			background: linear-gradient(to right, #fc9b87, #ef5b81);
-			opacity: 50%;
+			opacity: 0.5;
 			transform:translate(0%,-100%);
 		}
 
@@ -63,7 +63,7 @@
    			width: 100%;
 			height: 100%;
 			background: #2E2E2E;
-			opacity: 68%;
+			opacity: 0.68;
 		}
 		hr.가로 {
 			margin-top: 25%;
